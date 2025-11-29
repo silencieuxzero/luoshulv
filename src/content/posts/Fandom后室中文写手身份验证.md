@@ -5,6 +5,8 @@ description: "验证你的信息"
 tags: ["小工具"]
 category: 原创
 draft: false
+encrypted: true
+password: 'your-secret-password'
 ---
 # 第六届主题竞赛投票写手名单
 > 格式：用户名/创号日期
