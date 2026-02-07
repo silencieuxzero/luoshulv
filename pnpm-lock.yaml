@@ -89,6 +89,9 @@ importers:
       mdast-util-to-string:
         specifier: ^4.0.0
         version: 4.0.0
+      mdi:
+        specifier: ^2.2.43
+        version: 2.2.43
       overlayscrollbars:
         specifier: ^2.12.0
         version: 2.12.0
@@ -3393,6 +3396,10 @@ packages:
 
   mdast-util-to-string@4.0.0:
     resolution: {integrity: sha512-0H44vDimn51F0YwvxSJSm0eCDOJTRlmN0R1yBh4HLj9wiV1Dn0QoXGbvFAWj2hSItVTlCmBF1hqKlIyUBVFLPg==}
+
+  mdi@2.2.43:
+    resolution: {integrity: sha512-g3m6z4303qieltUM20JL2gdsJZvoVzIzO74qa2XxZ2kg9JPwrPEAgooVhRDHZi1vvRh0gB8Dg+c9XqNdz4jcIg==}
+    deprecated: The mdi package was renamed to @mdi/font after v2.2.43. Please rename in your package.json for future updates.
 
   mdn-data@2.0.14:
     resolution: {integrity: sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==}
@@ -9033,6 +9040,8 @@ snapshots:
   mdast-util-to-string@4.0.0:
     dependencies:
       '@types/mdast': 4.0.4
+
+  mdi@2.2.43: {}
 
   mdn-data@2.0.14: {}
 
