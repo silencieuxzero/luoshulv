@@ -5,7 +5,6 @@ description: "洛疏律和洛疏议的个人档案"
 tags: ["OC"]
 category: 原创
 draft: false
-pinned: true
 ---
 # 洛疏律和洛疏议的个人档案
 ## 身份数据（洛疏律）
