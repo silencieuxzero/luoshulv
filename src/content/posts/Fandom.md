@@ -6,10 +6,12 @@ tags: ["小工具"]
 category: 原创
 draft: false
 encrypted: true
-password: 'your-secret-password'
+password: '123456'
 ---
 # 第六届主题竞赛投票写手名单
+>
 > 格式：用户名/创号日期
+
 1. [To_Mildew](https://backrooms.fandom.com/zh/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/To_Mildew.)/2022.12.11
 1. [Destory_Drug](https://backrooms.fandom.com/zh/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Destory_Drug)/2024.4.8
 1. [极风](https://backrooms.fandom.com/zh/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/%E6%9E%81%E9%A3%8E)/2022.8.17
