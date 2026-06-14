@@ -6,7 +6,7 @@ tags: ["小工具"]
 category: 原创
 draft: false
 encrypted: true
-password: '123456'
+password: '12345678'
 ---
 # 第六届主题竞赛投票写手名单
 >
